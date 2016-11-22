@@ -1,0 +1,8 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter24\Chapter24\bin\Debug\Chapter24.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter24\Chapter24\bin\Debug\Chapter24.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter24\Chapter24\bin\Debug\Chapter24.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter24\Chapter24\obj\Debug\Chapter24.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter24\Chapter24\obj\Debug\Chapter24.pdb
+D:\Programming\C#\Sessions03\Chapter24\Chapter24\bin\Debug\Chapter24.exe.config
+D:\Programming\C#\Sessions03\Chapter24\Chapter24\obj\Debug\Chapter24.exe
+D:\Programming\C#\Sessions03\Chapter24\Chapter24\obj\Debug\Chapter24.pdb

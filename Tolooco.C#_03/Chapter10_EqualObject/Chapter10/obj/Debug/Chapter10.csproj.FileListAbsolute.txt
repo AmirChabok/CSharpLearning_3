@@ -1,0 +1,14 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter10\Chapter10\bin\Debug\Chapter10.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter10\Chapter10\bin\Debug\Chapter10.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter10\Chapter10\bin\Debug\Chapter10.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter10\Chapter10\obj\Debug\Chapter10.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter10\Chapter10\obj\Debug\Chapter10.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter10\Chapter10\bin\Debug\Chapter10.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter10\Chapter10\obj\Debug\Chapter10.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter10\Chapter10\obj\Debug\Chapter10.pdb
+D:\Programming\C#\Sessions03\Chapter10\Chapter10\bin\Debug\Chapter10.exe.config
+D:\Programming\C#\Sessions03\Chapter10\Chapter10\obj\Debug\Chapter10.exe
+D:\Programming\C#\Sessions03\Chapter10\Chapter10\obj\Debug\Chapter10.pdb
+D:\Programming\C#\Sessions03\Chapter10_EqualObject\Chapter10\bin\Debug\Chapter10.exe.config
+D:\Programming\C#\Sessions03\Chapter10_EqualObject\Chapter10\obj\Debug\Chapter10.exe
+D:\Programming\C#\Sessions03\Chapter10_EqualObject\Chapter10\obj\Debug\Chapter10.pdb

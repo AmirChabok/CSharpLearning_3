@@ -1,0 +1,14 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter12\Chapter12\bin\Debug\Chapter12.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter12\Chapter12\bin\Debug\Chapter12.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter12\Chapter12\bin\Debug\Chapter12.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter12\Chapter12\obj\Debug\Chapter12.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter12\Chapter12\obj\Debug\Chapter12.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter12\Chapter12\bin\Debug\Chapter12.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter12\Chapter12\obj\Debug\Chapter12.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter12\Chapter12\obj\Debug\Chapter12.pdb
+D:\Programming\C#\Sessions03\Chapter12\Chapter12\bin\Debug\Chapter12.exe.config
+D:\Programming\C#\Sessions03\Chapter12\Chapter12\obj\Debug\Chapter12.exe
+D:\Programming\C#\Sessions03\Chapter12\Chapter12\obj\Debug\Chapter12.pdb
+D:\Programming\C#\Sessions03\Chapter12_Constracture1\Chapter12\bin\Debug\Chapter12.exe.config
+D:\Programming\C#\Sessions03\Chapter12_Constracture1\Chapter12\obj\Debug\Chapter12.exe
+D:\Programming\C#\Sessions03\Chapter12_Constracture1\Chapter12\obj\Debug\Chapter12.pdb

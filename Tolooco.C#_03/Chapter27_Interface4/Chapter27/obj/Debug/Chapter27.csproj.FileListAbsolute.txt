@@ -1,0 +1,8 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter27\Chapter27\bin\Debug\Chapter27.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter27\Chapter27\bin\Debug\Chapter27.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter27\Chapter27\bin\Debug\Chapter27.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter27\Chapter27\obj\Debug\Chapter27.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter27\Chapter27\obj\Debug\Chapter27.pdb
+D:\Programming\C#\Sessions03\Chapter27\Chapter27\bin\Debug\Chapter27.exe.config
+D:\Programming\C#\Sessions03\Chapter27\Chapter27\obj\Debug\Chapter27.exe
+D:\Programming\C#\Sessions03\Chapter27\Chapter27\obj\Debug\Chapter27.pdb

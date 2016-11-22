@@ -1,0 +1,14 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter09\Chapter09\bin\Debug\Chapter09.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter09\Chapter09\bin\Debug\Chapter09.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter09\Chapter09\bin\Debug\Chapter09.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter09\Chapter09\obj\Debug\Chapter09.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter09\Chapter09\obj\Debug\Chapter09.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter09\Chapter09\bin\Debug\Chapter09.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter09\Chapter09\obj\Debug\Chapter09.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter09\Chapter09\obj\Debug\Chapter09.pdb
+D:\Programming\C#\Sessions03\Chapter09\Chapter09\bin\Debug\Chapter09.exe.config
+D:\Programming\C#\Sessions03\Chapter09\Chapter09\obj\Debug\Chapter09.exe
+D:\Programming\C#\Sessions03\Chapter09\Chapter09\obj\Debug\Chapter09.pdb
+D:\Programming\C#\Sessions03\Chapter09_EqualString\Chapter09\bin\Debug\Chapter09.exe.config
+D:\Programming\C#\Sessions03\Chapter09_EqualString\Chapter09\obj\Debug\Chapter09.exe
+D:\Programming\C#\Sessions03\Chapter09_EqualString\Chapter09\obj\Debug\Chapter09.pdb

@@ -1,0 +1,8 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter38\Chapter38\bin\Debug\Chapter38.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter38\Chapter38\bin\Debug\Chapter38.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter38\Chapter38\bin\Debug\Chapter38.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter38\Chapter38\obj\Debug\Chapter38.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter38\Chapter38\obj\Debug\Chapter38.pdb
+D:\Programming\C#\Sessions03\Chapter38\Chapter38\bin\Debug\Chapter38.exe.config
+D:\Programming\C#\Sessions03\Chapter38\Chapter38\obj\Debug\Chapter38.exe
+D:\Programming\C#\Sessions03\Chapter38\Chapter38\obj\Debug\Chapter38.pdb

@@ -1,0 +1,8 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter36\Chapter36\bin\Debug\Chapter36.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter36\Chapter36\bin\Debug\Chapter36.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter36\Chapter36\bin\Debug\Chapter36.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter36\Chapter36\obj\Debug\Chapter36.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter36\Chapter36\obj\Debug\Chapter36.pdb
+D:\Programming\C#\Sessions03\Chapter36\Chapter36\bin\Debug\Chapter36.exe.config
+D:\Programming\C#\Sessions03\Chapter36\Chapter36\obj\Debug\Chapter36.exe
+D:\Programming\C#\Sessions03\Chapter36\Chapter36\obj\Debug\Chapter36.pdb

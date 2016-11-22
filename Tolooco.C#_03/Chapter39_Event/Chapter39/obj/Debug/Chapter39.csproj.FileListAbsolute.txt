@@ -1,0 +1,8 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter39\Chapter39\bin\Debug\Chapter39.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter39\Chapter39\bin\Debug\Chapter39.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter39\Chapter39\bin\Debug\Chapter39.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter39\Chapter39\obj\Debug\Chapter39.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter39\Chapter39\obj\Debug\Chapter39.pdb
+D:\Programming\C#\Sessions03\Chapter39\Chapter39\bin\Debug\Chapter39.exe.config
+D:\Programming\C#\Sessions03\Chapter39\Chapter39\obj\Debug\Chapter39.exe
+D:\Programming\C#\Sessions03\Chapter39\Chapter39\obj\Debug\Chapter39.pdb

@@ -1,0 +1,8 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter35\Chapter35\bin\Debug\Chapter35.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter35\Chapter35\bin\Debug\Chapter35.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter35\Chapter35\bin\Debug\Chapter35.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter35\Chapter35\obj\Debug\Chapter35.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter35\Chapter35\obj\Debug\Chapter35.pdb
+D:\Programming\C#\Sessions03\Chapter35\Chapter35\bin\Debug\Chapter35.exe.config
+D:\Programming\C#\Sessions03\Chapter35\Chapter35\obj\Debug\Chapter35.exe
+D:\Programming\C#\Sessions03\Chapter35\Chapter35\obj\Debug\Chapter35.pdb

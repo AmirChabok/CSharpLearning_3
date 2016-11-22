@@ -1,0 +1,11 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter16\Chapter16\bin\Debug\Chapter16.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter16\Chapter16\bin\Debug\Chapter16.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter16\Chapter16\bin\Debug\Chapter16.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter16\Chapter16\obj\Debug\Chapter16.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter16\Chapter16\obj\Debug\Chapter16.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter16\Chapter16\bin\Debug\Chapter16.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter16\Chapter16\obj\Debug\Chapter16.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter16\Chapter16\obj\Debug\Chapter16.pdb
+D:\Programming\C#\Sessions03\Chapter16\Chapter16\bin\Debug\Chapter16.exe.config
+D:\Programming\C#\Sessions03\Chapter16\Chapter16\obj\Debug\Chapter16.exe
+D:\Programming\C#\Sessions03\Chapter16\Chapter16\obj\Debug\Chapter16.pdb

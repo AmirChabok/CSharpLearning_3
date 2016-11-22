@@ -1,0 +1,2 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter29\Chapter29\bin\Debug\Chapter29.exe.config
+D:\Programming\C#\Sessions03\Chapter29\Chapter29\bin\Debug\Chapter29.exe.config

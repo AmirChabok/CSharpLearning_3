@@ -1,0 +1,8 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter30\Chapter30\bin\Debug\Chapter30.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter30\Chapter30\bin\Debug\Chapter30.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter30\Chapter30\bin\Debug\Chapter30.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter30\Chapter30\obj\Debug\Chapter30.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter30\Chapter30\obj\Debug\Chapter30.pdb
+D:\Programming\C#\Sessions03\Chapter30\Chapter30\bin\Debug\Chapter30.exe.config
+D:\Programming\C#\Sessions03\Chapter30\Chapter30\obj\Debug\Chapter30.exe
+D:\Programming\C#\Sessions03\Chapter30\Chapter30\obj\Debug\Chapter30.pdb

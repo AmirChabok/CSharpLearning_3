@@ -1,0 +1,9 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter07\Chapter07\bin\Debug\Chapter07.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter07\Chapter07\bin\Debug\Chapter07.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter07\Chapter07\bin\Debug\Chapter07.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter07\Chapter07\bin\Debug\Chapter07.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter07\Chapter07\obj\Debug\Chapter07.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter07\Chapter07\obj\Debug\Chapter07.pdb
+D:\Programming\C#\Sessions03\Chapter07\Chapter07\bin\Debug\Chapter07.exe.config
+D:\Programming\C#\Sessions03\Chapter07\Chapter07\obj\Debug\Chapter07.exe
+D:\Programming\C#\Sessions03\Chapter07\Chapter07\obj\Debug\Chapter07.pdb

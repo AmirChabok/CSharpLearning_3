@@ -1,0 +1,8 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\Chapter02\Chapter02\bin\Debug\Chapter02.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions03\Chapter02\Chapter02\bin\Debug\Chapter02.exe.config
+D:\Programming\C#\Sessions03\Chapter02\Chapter02\bin\Debug\Chapter02.exe.config
+D:\Programming\C#\Sessions03\Chapter02\Chapter02\obj\Debug\Chapter02.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Sessions03\Chapter02\Chapter02\bin\Debug\Chapter02.exe
+D:\Programming\C#\Sessions03\Chapter02\Chapter02\bin\Debug\Chapter02.pdb
+D:\Programming\C#\Sessions03\Chapter02\Chapter02\obj\Debug\Chapter02.exe
+D:\Programming\C#\Sessions03\Chapter02\Chapter02\obj\Debug\Chapter02.pdb
